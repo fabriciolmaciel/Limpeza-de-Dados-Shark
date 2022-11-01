@@ -1,6 +1,8 @@
 Projeto Shark Attack
 Este repositório contém o estudo sobre a incidência de ataques de tubarões-tigre, em especifico no território dos USA onde se apresentou uma maior quantidade de casos para esta espécie.
 
+Bibliotecas utilizadas: Pandas e OS
+
 Fases do projeto:
 
 1) Importaçao do DataSet -- > https://www.kaggle.com/datasets/teajay/global-shark-attacks?resource=download
