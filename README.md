@@ -4,7 +4,7 @@
 
 Este repositório contém o estudo sobre a incidência de ataques de tubarões-tigre, em especifico no território dos USA onde se apresentou uma maior quantidade de casos para esta espécie.
 
-## Bibliotecas utilizadas: Pandas e OS
+## Bibliotecas Python utilizadas: Pandas e OS
 
 ## Fases do projeto:
 
@@ -18,7 +18,7 @@ Este repositório contém o estudo sobre a incidência de ataques de tubarões-t
 8) Identificação do país ('Country') de maior quantidade de ataques reportados --> USA
 9) Identificação da Area onde ocorreu a maior quantidade de ataques de tubarões-tigre no terrítório USA
 
-# Conclusão: A área de maior incidência de ataques de tubarão-tigre é no Hawaii
+# Conclusão: A área de maior incidência de ataques de tubarão-tigre é no Hawaii, com 84 ataques do total de 281, correspondendo a 29,89% dos casos.
 
 
 
