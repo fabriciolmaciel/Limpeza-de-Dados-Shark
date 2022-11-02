@@ -18,7 +18,7 @@ Este repositório contém o estudo sobre a incidência de ataques de tubarões-t
 8) Identificação do país ('Country') de maior quantidade de ataques reportados --> USA
 9) Identificação da Area onde ocorreu a maior quantidade de ataques de tubarões-tigre no terrítório USA
 
-#Conclusão: A área de maior incidência de ataques de tubarão-tigre é no Hawaii
+# Conclusão: A área de maior incidência de ataques de tubarão-tigre é no Hawaii
 
 
 
